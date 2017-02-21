@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./images/soul_of_cinder.jpg') bottom center;
+  background: url('./images/cutesif.jpg') bottom center;
   background-size: cover;
 }
 body,html {
@@ -32,9 +32,9 @@ body,html {
 }
 
 .playing {
-  transform: scale(3.0);
-  border-color: #ff0000;
-  box-shadow: 0 0 1rem #FFFFFF;
+  transform: scale(1.2);
+  border-color: #D74F4F;
+  box-shadow: 0 0 9rem #878787;
 }
 
 kbd {
